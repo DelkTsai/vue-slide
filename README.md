@@ -6,7 +6,7 @@
 
 The demo page is [HERE](http://hilongjw.github.io/vue-slide/demo.html).
 
-# Instllation
+# Installation
 
 ## npm
 
